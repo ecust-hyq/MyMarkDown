@@ -33,7 +33,7 @@ MarkDown使用纯文本格式编写，用户无需过多考虑字体大小，颜
 >>显示效果：*斜体*
 ### 4. 插入链接
 > 输入：`[链接名称](链接地址)`
-> 显示效果：[链接名称](https://github.com/ecust-hyq/MyMarkDown/edit/main/README.md)
+> 显示效果：[链接名称](https://github.com/ecust-hyq/MyMarkDown)
 ### 5. 插入图片
 > 输入：`!`+`[链接名称](链接地址)`
 > 注意：  
